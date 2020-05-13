@@ -3,3 +3,9 @@ Graph/Tree Traversals
 - BFS
 
 Binary Search
+
+Data Structures:
+- Stacks
+- Queues
+- Binary Trees
+- Graphs
