@@ -9,3 +9,4 @@ Data Structures:
 - Queues
 - Binary Trees
 - Graphs
+- Trie data structure

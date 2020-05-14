@@ -5,7 +5,8 @@
 #         self.left = left
 #         self.right = right
 
-import TreeNode
+from Problems import TreeNode
+
 
 class Solution(object):
     def binaryTreePaths(self, root):
