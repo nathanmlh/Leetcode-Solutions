@@ -10,3 +10,6 @@ Data Structures:
 - Binary Trees
 - Graphs
 - Trie data structure
+
+Algorithms:
+- Kadane's algorithm (maximum subarray problem)
