@@ -13,3 +13,6 @@ Data Structures:
 
 Algorithms:
 - Kadane's algorithm (maximum subarray problem)
+
+Problems
+- Sliding window problems
